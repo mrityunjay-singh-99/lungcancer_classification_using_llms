@@ -1,0 +1,3 @@
+<ID:31602389>
+Title: Molecular Approaches to Metastatic Colorectal Cancer: Better Diagnosis - Better Treatment?
+Abstract: Molecular diagnostics of metastatic colorectal cancer (mCRC) are coming of age. Whereas for many years RAS mutations were the only relevant molecular alterations examined in mCRC, nowadays the BRAF, HER2, and microsatellite instability status of a given tumor is gaining importance, since it has not only prognostic relevance but opens new avenues for therapeutic approaches. This review summarizes the recent advances in molecular approaches to mCRC and their therapeutic consequences and discusses novel approaches for molecular diagnostics in mCRC.

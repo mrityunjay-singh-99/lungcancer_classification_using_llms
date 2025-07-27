@@ -1,0 +1,3 @@
+<ID:30878128>
+Title: ALK rearrangements: Biology, detection and opportunities of therapy in non-small cell lung cancer.
+Abstract: The ALK receptor tyrosine kinase (ALK) gene encodes a transmembrane protein rearranged in 2-7% of non-small cell lung cancer (NSCLC) cases. This gene has become the second most studied therapeutic target after EGFR due to the implied therapeutic opportunities. While the diagnostic of ALK rearrangements is well established, small molecules targeting ALK are in constant evolution because tumor cells eventually will develop mechanisms of resistance. In this review we describe the biology of the ALK gene, alterations, epidemiology, diagnostic tests as well as strategies of treatment.

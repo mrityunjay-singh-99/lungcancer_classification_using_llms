@@ -1,0 +1,3 @@
+<ID:24289326>
+Title: A new germline mutation in KIT associated with diffuse cutaneous mastocytosis in a Chinese family.
+Abstract: Diffuse cutaneous mastocytosis (DCM) is an extremely rare disease characterized by massive proliferation of mast cells infiltrating the entire skin. We report a Chinese family with indolent DCM, and detection of a new germline KIT mutation located in the fifth immunoglobulin-like loop of the KIT protein, which probably results in a gain-of-function effect and consequent overactivation of mast cells. Our report expands the knowledge of correlations between the genotype of KIT mutations and the phenotype of DCM.

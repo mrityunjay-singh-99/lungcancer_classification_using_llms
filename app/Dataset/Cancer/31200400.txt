@@ -1,0 +1,3 @@
+<ID:31200400>
+Title: [Maternal Tumor Disease as a Reason for Repeated Test Failure in Cell-Free DNA Screening].
+Abstract: Noninvasive prenatal testing (NIPT) is a screening test for fetal chromosome disorders. Recent studies show an incidental detection of maternal malignancies in NIPT diagnostics, where the simultaneous presence of multiple aneuploidies is described as an NIPT "anomaly". In this case, the diagnosis of a maternal tumor disease was made due to a repeat NIPT failure (no call).

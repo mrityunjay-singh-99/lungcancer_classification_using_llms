@@ -1,0 +1,3 @@
+<ID:31094179>
+Title: MutYH-associated polyposis.
+Abstract: MutYH-associated polyposis is the only polyposis syndrome with an autosomal recessive type of inheritance, often phenotypically similar to a weakened form of familial adenomatous polyposis. For the development of the disease mutations in both alleles of the gene are required, but an increased risk of developing colorectal cancer in carriers of monoallelic mutations is noted. The diagnosis of MutYH-associated polyposis should be suspected in a patient with colorectal cancer over 45 years old on the background of polyps in the colon. The review presents modern algorithms for diagnostic and treatment of the disease.

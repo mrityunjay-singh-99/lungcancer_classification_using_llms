@@ -1,0 +1,3 @@
+<ID:31244646>
+Title: BRAF Non-V600E Mutated Metastatic Colorectal Cancer in a Young Patient: Discussion from a Case Report.
+Abstract: We report the case of a 32-year-old man with a caecal adenocarcinoma with major lymph node extension and peritoneal carcinomatosis, presenting a BRAF-K601E mutation. A triplet (5FU plus oxaliplatin plus irinotecan) combination with bevacizumab achieved tumor control but the disease progressed immediately after cessation and the patient died 8 months after the diagnosis. A short review of BRAF non-V600E mutations shows that outcome and clinical features depend on the mutation.

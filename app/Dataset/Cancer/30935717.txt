@@ -1,0 +1,3 @@
+<ID:30935717>
+Title: Diagnosis and management of a recurrent polymerase-epsilon (POLE)-mutated endometrial cancer.
+Abstract: Polymerase-epsilon (POLE)-mutated carcinomas are a rare, but well-known subtype of endometrial cancer. While typically associated with good prognosis, recurrences are documented. Here we present a case of recurrent POLE-mutated endometrial cancer, discuss pathologic features, current methods of molecular classification, and explore therapeutic implications for the POLE-mutation phenotype.

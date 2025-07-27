@@ -1,0 +1,3 @@
+<ID:24704721>
+Title: CARD9 deficiency and spontaneous central nervous system candidiasis: complete clinical remission with GM-CSF therapy.
+Abstract: We demonstrate autosomal-recessive Caspase Recruitment Domain-containing protein 9 (CARD9) deficiency in a patient with relapsing C. albicans meningoencephalitis. We identified a novel, hypomorphic mutation with intact Th17 responses, but impaired GM-CSF responses. We report complete clinical remission with adjunctive GM-CSF therapy, suggesting that a CARD9/GM-CSF axis contributes to susceptibility to candidiasis.

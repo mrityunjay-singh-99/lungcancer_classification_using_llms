@@ -1,0 +1,3 @@
+<ID:31384200>
+Title: Cribriform-morular variant of papillary thyroid carcinoma and its association with familial adenomatous polyposis.
+Abstract: The cribriform-morular variant of papillary thyroid carcinoma (CMV-PTC) is an uncommon variant of papillary thyroid carcinoma. CMV-PTC can be associated with familial adenomatous polyposis (FAP), an autosomal-dominant polyposis syndrome caused by a mutation in the APC gene that leads to a disruption of the Wnt/beta-catenin pathway. Understanding the relation between CMV-PTC and FAP is a diagnostic tool for both pathologists and clinicians, because FAP has several implications for patients and their families.

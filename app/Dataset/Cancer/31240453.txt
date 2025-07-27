@@ -1,0 +1,3 @@
+<ID:31240453>
+Title: [Round-cell sarcomas].
+Abstract: Round-cell sarcomas represent highly malignant tumors that occur predominantly in children, adolescents, and young adults. Round-cell sarcomas are caused by recurrent translocations that involve certain transcription factors. Ewing's sarcoma, Ewing-like sarcomas (e.g. CIC-DUX positive or BCOR positive sarcomas), desmoplastic small round-cell tumors (DSRCTs), and alveolar rhabdomyosarcomas (ARMs) are typical examples of this particular group of sarcomas. These entities differ in their tumor genetics, which is correlated with immunohistochemical expression profiles and with clinical phenotypes. Classification should be based on molecular findings. Immunohistochemistry may serve as a surrogate marker.

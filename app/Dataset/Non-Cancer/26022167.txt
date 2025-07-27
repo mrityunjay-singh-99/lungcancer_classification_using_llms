@@ -1,0 +1,3 @@
+<ID:26022167>
+Title: Tuberous sclerosis complex.
+Abstract: Tuberous sclerosis complex is an autosomal-dominant, neurocutaneous, multisystem disorder characterized by cellular hyperplasia and tissue dysplasia. The genetic cause is mutations in the TSC1 gene, found on chromosome 9q34, and TSC2 gene, found on chromosome 16p13. The clinical phenotypes resulting from mutations in either of the 2 genes are variable in each individual. Herein, advances in the understanding of molecular mechanisms in tuberous sclerosis complex are reviewed, and current guidelines for diagnosis, treatment, follow-up, and management are summarized.

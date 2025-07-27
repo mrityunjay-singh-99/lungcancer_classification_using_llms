@@ -1,0 +1,3 @@
+<ID:24262698>
+Title: Mastocytosis.
+Abstract: Mastocytosis is a disorder of abnormal mast cell proliferation, with clinical features that include flushing, pruritus, abdominal pain, diarrhea, hypotension, syncope, and musculoskeletal pain. These features are the result of mast cell mediator release and infiltration into target organs. Patients of all ages may be affected, although in children, manifestations primarily involve the skin. Most patients with systemic disease have a somatically acquired activating mutation in the KIT oncogene. This article discusses the causes and pathogenesis of mastocytosis, with an overview of the clinical features and the approach to diagnosis, evaluation, and therapy in adults and pediatric patients.

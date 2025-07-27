@@ -1,0 +1,7 @@
+<ID:38623902>
+Title: [Not Available].
+Abstract: Effective longitudinal biomarkers that track disease progression are needed to characterize the presymptomatic phase of genetic frontotemporal dementia (FTD). We investigate the utility of cerebral perfusion as one such biomarker in presymptomatic FTD mutation carriers.
+We investigated longitudinal profiles of cerebral perfusion using arterial spin labeling magnetic resonance imaging in 42 C9orf72, 70 GRN, and 31 MAPT presymptomatic carriers and 158 non-carrier controls. Linear mixed effects models assessed perfusion up to 5 years after baseline assessment.
+Perfusion decline was evident in all three presymptomatic groups in global gray matter. Each group also featured its own regional pattern of hypoperfusion over time, with the left thalamus common to all groups. Frontal lobe regions featured lower perfusion in those who symptomatically converted versus asymptomatic carriers past their expected age of disease onset.
+Cerebral perfusion is a potential biomarker for assessing genetic FTD and its genetic subgroups prior to symptom onset.
+Gray matter perfusion declines in at-risk genetic frontotemporal dementia (FTD). Regional perfusion decline differs between at-risk genetic FTD subgroups . Hypoperfusion in the left thalamus is common across all presymptomatic groups. Converters exhibit greater right frontal hypoperfusion than non-converters past their expected conversion date. Cerebral hypoperfusion is a potential early biomarker of genetic FTD.

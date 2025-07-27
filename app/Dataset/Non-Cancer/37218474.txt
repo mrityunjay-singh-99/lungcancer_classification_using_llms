@@ -1,0 +1,7 @@
+<ID:37218474>
+Title: Management of anastomotic leaks after oesophagectomy and gastric pull-up.
+Abstract: To evaluate the effectiveness of endoscopic and surgical intervention in treating anastomotic leaks after oesophagectomy.
+Anastomotic leak after oesophagectomy is a severe complication associated with significant morbidity and mortality. This study aimed to analyse our experience with the management of anastomotic leak after oesophagectomy.
+A retrospective study evaluated the treatment outcome and duration of treatment in patients with anastomotic dehiscence or conduit necrosis after oesophagectomy from November 2008 to November 2021.
+The group consists of forty-seven patients. Twenty-one (44.7 %) patients had dehiscence of the neck anastomosis, twenty patients (42.6 %) had dehiscence of the chest anastomosis, and six (12.8 %) patients had conduit necrosis. Nineteen patients with dehiscence were primarily treated by endoscopic insertion of a self-expanding metal stent with perianastomotic drainage; the other patients were primarily treated surgically. Mortality associated with anastomosis dehiscence was 27.7 % (thirteen patients). Stent use in treatment was a statistically significant parameter regarding the length of hospital stay and mortality.
+Self-expanding metal stents can reduce leak-related morbidity and mortality after oesophagectomy and may be considered a cost-effective treatment alternative (Tab. 2, Fig. 2, Ref. 21).

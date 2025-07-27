@@ -1,0 +1,3 @@
+<ID:24745675>
+Title: Flow cytometry in mastocytosis: utility as a diagnostic and prognostic tool.
+Abstract: This article presents information for the identification and characterization of mast cells from bone marrow and other tissues using multiparametric flow cytometry. In addition, it provides guidelines for the application of this technique in the subclassification of systemic mastocytosis and assessment of the long-term prognosis of patients individually.

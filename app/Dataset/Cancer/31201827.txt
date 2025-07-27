@@ -1,0 +1,3 @@
+<ID:31201827>
+Title: FLT3 overexpression in acute leukaemias: New insights into the search for molecular mechanisms.
+Abstract: FLT3 overexpression is a recurrent event in various acute leukaemia subtypes. This transcriptional deregulation is important to define the prognostic risk for many patients. Of note, the molecular mechanisms leading to this gene upregulation are unknown for a substantial number of cases. In this Mini-Review, we highlight the role of FLT3 overexpression in acute leukaemia and discuss emerging mechanisms accounting for this upregulation. The benefits of using targeted therapy are also addressed in the overexpression context, posing other therapeutic possibilities based on state-of-the-art knowledge that could be considered for future research.

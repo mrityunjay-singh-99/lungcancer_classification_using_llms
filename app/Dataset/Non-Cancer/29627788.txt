@@ -1,0 +1,3 @@
+<ID:29627788>
+Title: Treatment of hemorrhagic head and neck lesions by direct puncture and n-BCA embolization.
+Abstract: Life-threatening bleeding in the head and neck region requires urgent management. These hemorrhagic lesions, for example, a ruptured pseudoaneurysm, are often treated by transarterial embolization (TAE), but prior intervention or surgery, inflammation, anatomic variants, and vessel tortuosity may render an endovascular approach challenging, time-consuming, and sometimes impossible. We report two cases of severe head and neck hemorrhages successfully embolized with n-butyl cyanoacrylate via direct puncture, and propose this approach as a fast, safe, and effective alternative to TAE.

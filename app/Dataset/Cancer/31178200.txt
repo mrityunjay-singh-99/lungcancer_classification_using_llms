@@ -1,0 +1,3 @@
+<ID:31178200>
+Title: Diagnosis and Prognosis of Canine Cutaneous Mast Cell Tumors.
+Abstract: Canine cutaneous mast cell tumors (MCTs) are among the most common canine cutaneous tumors, with highly variable biological behavior. This review describes in detail current approaches for cytologic and histologic diagnosis and prognosis, including advantages and limitations of cytologic and histologic grading and utilization of molecular markers, for example, Ki67, AgNORs, KIT expression, and c-Kit mutations, for a more accurate detection of aggressive MCTs. Furthermore, the current approach to evaluate surgical margins and spread to local lymph nodes is discussed.

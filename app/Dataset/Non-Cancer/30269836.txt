@@ -1,0 +1,3 @@
+<ID:30269836>
+Title: Identification of a Novel Titin Variant Underlying Myocardial Involvement in Neurofibromatosis Type 1.
+Abstract: Because of the rare co-occurrence, it remains a question whether cardiomyopathy is a true association of neurofibromatosis type 1. A boy with cafe-au-lait spots manifested restrictive cardiomyopathy. Whole exome sequencing confirmed the genetic diagnosis of neurofibromatosis and further identified a novel titin (TTN) missense variant. The significance of the variant is supported by its de novo origin, in silico predictions, and evolutionary conservation. Modern genetics raises an intriguing explanation for the unexpected phenotype and adds to the evolving role of TTN variants in cardiomyopathy.
